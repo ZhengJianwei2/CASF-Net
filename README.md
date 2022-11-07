@@ -32,7 +32,9 @@ The result will be saved in snapshots...
 
 Some of the codes in this repo are borrowed from:
 [timm repo](https://github.com/rwightman/pytorch-image-models)
+
 [PraNet repo](https://github.com/DengPingFan/PraNet)
+
 [TransFuse repo](https://github.com/Rayicer/TransFuse)
 
 ## 6 Questions
