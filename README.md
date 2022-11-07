@@ -36,7 +36,7 @@ and put them into models directory.
            
 The result will be saved in snapshots...
 
-## 5. Cite Reference
+## 5. Reference
 
 Some of the codes in this repo are borrowed from:
 
