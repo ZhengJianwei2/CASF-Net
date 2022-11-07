@@ -22,11 +22,11 @@ This code has been tested on on a personal laptop with Intel i7-10700H 3.8-GHz p
 
 and put them into data directory.
 
-## 3. Download models
+## 3. Download Related Documents
 
-the models (loading models) and  he pretrained_models (loading model parameters):
+the models (loading models) ， pretrained_models (loading model parameters)  and result map:
 
-* [models](https://drive.google.com/drive/folders/1GKnAeVtbn_PjnRURQlRqua6vWu-S8nZI)
+* [Related Documents](https://drive.google.com/drive/folders/1GKnAeVtbn_PjnRURQlRqua6vWu-S8nZI)
 
 and put them into models directory.
 
