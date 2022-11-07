@@ -30,7 +30,7 @@ the models (loading models) ， pretrained_models (loading model parameters)  an
 
 and put them into models directory.
 
-## 4.tran and test
+## 4.Running
 
     python  XX.py
            
