@@ -2,8 +2,9 @@
 
 CASF-Net: Cross-attention And Cross-scale Fusion Network for Medical Image Segmentation (Submitted)
 
-## CASF-Net Architecture
-!(png)[https://github.com/ZhengJianwei2/CASF-Net/blob/main/main.png]
+## CASF-Net Architecture 
+
+![image](https://github.com/ZhengJianwei2/CASF-Net/blob/main/main.png)
 
 ## 1. Environment setup
 
