@@ -46,6 +46,6 @@ Some of the codes in this repo are borrowed from:
 
 [TransFuse repo](https://github.com/Rayicer/TransFuse)
 
-## 6 Questions
+## 6. Questions
 
 Please drop an email to [hiderhao@gmail.com](hiderhao@gmail.com)
