@@ -14,8 +14,10 @@ This code has been tested on on a personal laptop with Intel i7-10700H 3.8-GHz p
 [Gland Segmentation Challenge Contest](https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest/) 
 
 and put them into data directory.
-## 3. Download the models (loading models) and  he pretrained_models (loading model parameters)::
 
+## 3. Download models
+
+the models (loading models) and  he pretrained_models (loading model parameters):
 * [models](https://drive.google.com/drive/folders/1GKnAeVtbn_PjnRURQlRqua6vWu-S8nZI)
 
 and put them into models directory.
