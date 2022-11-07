@@ -29,7 +29,7 @@ the models (loading models) and  he pretrained_models (loading model parameters)
 
 and put them into models directory.
 
-##4.tran and test
+## 4.tran and test
 
     python  XX.py
            
