@@ -8,7 +8,7 @@ CASF-Net: Cross-attention And Cross-scale Fusion Network for Medical Image Segme
 
 ## 1. Environment setup
 
-This code has been tested on on a personal laptop with Intel i7-10700H 3.8-GHz processor, 32-GB RAM, and an NVIDIA GTX3060t graphic card, Python 3.6, PyTorch 9.1, CUDA 10.0, cuDNN 7.6.  
+This code has been tested on on a personal laptop with Intel i7-10700H 3.8-GHz processor, 32-GB RAM, and an NVIDIA GTX3060t graphic card, Python 3.6, PyTorch 9.1, CUDA 10.1, cuDNN 8.3.  
 
 ## 2. Downloading necessary data:
 * Kvasir-SEG Dataset:
