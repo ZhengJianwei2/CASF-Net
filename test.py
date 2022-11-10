@@ -56,10 +56,9 @@ def mean_dice_np(y_true, y_pred, **kwargs):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--ckpt_path', type=str, default='././')#/TransFuse_S/
+    parser.add_argument('--ckpt_path', type=str, default='././') 
     parser.add_argument('--data_path', type=str, default='././', help='path to test dataset')
-    parser.add_argument('--save_path', type=str, default='././', help='path to save inference segmentation')
-#G:\desktop\hider\SETR352\result_map\Final
+    parser.add_argument('--save_path', type=str, default='././', help='path to save inference segmentation') 
     opt = parser.parse_args()
     
     time_start = time.time()
@@ -76,7 +75,7 @@ if __name__ == '__main__':
 
     print('evaluating model: ', opt.ckpt_path)
 
-#G:\desktop\hider\SETR352\result_map
+ 
 
     image_root = '{}/images/'.format(opt.data_path)
     gt_root = '{}/masks/'.format(opt.data_path)
